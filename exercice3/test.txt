@@ -1,0 +1,3 @@
+la gestion des exception en c++
+lecture d'un fichier 
+avec gestion d'erreurs 
